@@ -1,0 +1,5 @@
+size 1: 10 + 6 = 16
+size 4: 6 + 1 = 7
+size 9: 3
+size 16: 1
+Thus, the overall is 16 + 7 + 3 + 1 = 27
